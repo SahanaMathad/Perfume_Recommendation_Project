@@ -114,7 +114,9 @@ Below are example screenshots of the Streamlit interface. Place your images in t
 
 ### Recommendations View
 
-![Recommendations Screen](screenshots/recommendations.png)
+![Recommendations Screen](screenshots/02.png)
+(screenshots/03.png)
+(screenshots/04.png)
 
 ---
 

@@ -110,13 +110,13 @@ Below are example screenshots of the Streamlit interface. Place your images in t
 
 ### Home Page View
 
-![alt text](01.PNG)
+![Home page](screenshots/01.PNG)
 
 ### Recommendations View
 
 ![Recommendations Screen](screenshots/02.PNG)
-(screenshots/03.PNG)
-(screenshots/04.PNG)
+![Recommendations Screen](screenshots/03.PNG)
+![Dataset Sample](screenshots/04.PNG)
 
 ---
 
